@@ -1,1 +1,0 @@
-import{_ as t,o,c,b as n}from"./index-bac48f2f.js";import{E as s}from"./el-alert-67d7f031.js";const r={},a={style:{padding:"30px"}};function _(l,d){const e=s;return o(),c("div",a,[n(e,{closable:!1,title:"menu 2"})])}const m=t(r,[["render",_]]);export{m as default};
