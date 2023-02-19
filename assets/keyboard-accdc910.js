@@ -1,1 +1,0 @@
-import{f as e,o as _,c as a,b as c,cu as o,_ as s}from"./index-78f58050.js";const t={class:"chart-container"},n=e({__name:"keyboard",setup(r){return(d,p)=>(_(),a("div",t,[c(o)]))}});const f=s(n,[["__scopeId","data-v-80db50c5"]]);export{f as default};
