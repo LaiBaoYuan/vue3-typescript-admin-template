@@ -1,0 +1,1 @@
+import{v as e,E as _,F as n,ac as s}from"./index-4fe7658c.js";const o={class:"icons-container"},t=e({name:"Icons"}),c=e({...t,setup(a){return(d,i)=>(_(),n("div",o," icons "))}});const r=s(c,[["__scopeId","data-v-84eb3b88"]]);export{r as default};
