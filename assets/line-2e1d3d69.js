@@ -1,0 +1,1 @@
+import{f as e,o as _,c,b as a,ck as s,_ as t}from"./index-089552d5.js";const n={class:"chart-container"},o=e({__name:"line",setup(r){return(i,p)=>(_(),c("div",n,[a(s)]))}});const d=t(o,[["__scopeId","data-v-7e9f26ac"]]);export{d as default};
